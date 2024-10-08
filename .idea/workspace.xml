@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30f9e8cf-1397-44b2-84a7-1276cab7ef00" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ContractedDoctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Doctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/InsideDoctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/InternalPatient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/InternalTreatment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/OutPatient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/OutTreatment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Patient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/TraineeDoctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Treatment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContractedDoctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContractedDoctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsideDoctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsideDoctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InternalPatient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InternalPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InternalTreatment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InternalTreatment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OutPatient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OutPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OutTreatment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OutTreatment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TraineeDoctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TraineeDoctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Treatment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Treatment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tempCodeRunnerFile.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2gn76unEbmuki78QcDiHv5fXCGF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="programming_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmm" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mmm" />
+      <module name="programming_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30f9e8cf-1397-44b2-84a7-1276cab7ef00" name="Changes" comment="" />
+      <created>1716321317741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716321317741</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/programming_project$App.ic" NAME="App Coverage Results" MODIFIED="1717099754198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
